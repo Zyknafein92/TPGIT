@@ -1,1 +1,5 @@
 Ceci est le texte nécessaire pour la validation de github du premier fichier
+<<<<<<< HEAD
+=======
+Blablabla
+>>>>>>> ace35d3a80ec53c9421e0133c7b1e085355c1d7b
